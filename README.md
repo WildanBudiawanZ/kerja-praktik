@@ -16,8 +16,8 @@ Empat flow utama:
 ## Pendaftaran
 
 1. Mahasiswa membuat Surat Pengantar Kerja Praktik pada tautan berikut: [Link Surat Pengantar KP](https://docs.google.com/forms/d/e/1FAIpQLSdZYsBOGMR6G_tlFvdjOQunOmkGryDJX8XCYK_hr-IDYs05QQ/viewform)
-2. Membawa Surat Pengantar dan Proposal Kerja Praktik ke Instansi yang dituju, berkomunikasi dengan PIC yang ditunjuk Instansi, dan meminta Surat Pertanyatan Penerimaan atau Penolakan dari Instansi.
-3. Mengisi form Penerimaan atau Penolakan dari Instansi sebagai berikut: FORM RESPON DARI INSTANSI
+2. Membawa Surat Pengantar dan Proposal Kerja Praktik ke Instansi yang dituju, berkomunikasi dengan PIC yang ditunjuk Instansi, dan memohon pernyataan resmi dari instansi melalui Surat Pertanyatan Penerimaan atau Penolakan dari Instansi.
+3. Mengisi form Penerimaan atau Penolakan dari Instansi sebagai berikut: **FORM RESPON DARI INSTANSI**
 4. Apabila ajuan diterima, mahasiswa melanjutkan proses ke tahap pelaksanaan. Apaila ajuan ditolak, mahasiswa mengulangi langkah ke tahap Persiapan poin 1. 
 
 ## Pelaksanaan
