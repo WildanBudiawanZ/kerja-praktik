@@ -8,7 +8,7 @@ Empat flow utama:
 
 ## Persiapan
 1. Mahasiswa menentukan Instansi yang dituju dan rencana kerja.
-2. Berkonsultasi dengan dosen pembimbing akademik/pembimbing Kerja Praktik, menyusun Proposal Kerja Praktik, dan meminta persetujuan dosen bersangkutan mengenai lokasi dan rencana kerja. 
+2. Berkonsultasi dan berkoordinasi dengan dosen pembimbing akademik/pembimbing Kerja Praktik mengenai penyusunan Proposal Kerja Praktik dan meminta persetujuan dosen bersangkutan melalui Form Persetujuan. Form Persetujuan dapat diunduh pada tautan berikut: [Form Persetujuan](https://docs.google.com/document/d/1pyuC9pH_AKXVX2FtJMJ1QA0c9_xIaD1_/edit)
 3. Proposal Kerja Praktik (KP) paling tidak memuat hal-hal sebagai berikut:
 ```
 1. Cover
@@ -20,7 +20,6 @@ Empat flow utama:
 7. Agenda Pelaksanaan (timeline pekerjaan)
 8. Curriculum Vitae Mahasiswa
 ```
-Form Persetujuan dapat diunduh pada tautan berikut: [Form Persetujuan](https://docs.google.com/document/d/1pyuC9pH_AKXVX2FtJMJ1QA0c9_xIaD1_/edit)
 Template Proposal dapat diunduh pada tautan berikut: [Template Proposal KP](https://docs.google.com/document/d/1jbEW7oVsenxvTrVSzVUT4JLuh1ONTxQg/edit)
 
 
