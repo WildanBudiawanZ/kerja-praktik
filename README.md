@@ -19,8 +19,8 @@ Empat flow utama:
 6. Luaran Pekerjaan (gambaran hasil pekerjaan)
 7. Agenda Pelaksanaan (timeline pekerjaan)
 8. Curriculum Vitae Mahasiswa
-```
 Template Proposal dapat diunduh pada tautan berikut: [Template Proposal KP](https://docs.google.com/document/d/1jbEW7oVsenxvTrVSzVUT4JLuh1ONTxQg/edit)
+```
 
 
 ## Pendaftaran
