@@ -20,8 +20,8 @@ Empat flow utama:
 7. Agenda Pelaksanaan (timeline pekerjaan)
 8. Curriculum Vitae Mahasiswa
 ```
-Form Persetujuan dapat diunduh pada tautan berikut: [Form Persetujuan]()
-Template Proposal dapat diunduh pada tautan berikut: [Template Proposal KP](https://docs.google.com/document/d/1DMMt1Oim95dzmX65iqPaEAoDK08pGjMm/edit)
+Form Persetujuan dapat diunduh pada tautan berikut: [Form Persetujuan](https://docs.google.com/document/d/1pyuC9pH_AKXVX2FtJMJ1QA0c9_xIaD1_/edit)
+Template Proposal dapat diunduh pada tautan berikut: [Template Proposal KP](https://docs.google.com/document/d/1jbEW7oVsenxvTrVSzVUT4JLuh1ONTxQg/edit)
 
 
 ## Pendaftaran
