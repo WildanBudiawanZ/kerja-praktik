@@ -15,4 +15,4 @@ Empat flow utama:
 ## Seminar
 
 # Referensi
-Petunjuk Teknik Kerja Praktik Capstone Design Jurusan Teknik Informatika UIN Sunan Gunung Djati
+Petunjuk Teknis Kerja Praktik Capstone Design Jurusan Teknik Informatika UIN Sunan Gunung Djati
