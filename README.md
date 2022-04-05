@@ -22,6 +22,8 @@ Empat flow utama:
 
 ## Pelaksanaan
 
+Pelaksanaan Kerja Praktik (KP) dapat dilakukan bersamaan dengan proses bimbingan dengan Pembimbing Instansi dan Dosen Pembimbing Kerja Praktik (KP), selain itu Peserta Kerja Praktik (KP) dapat mulai menyusun dan mendiskusikan Laporan Kerja Praktik bersama Dosen Pembimbing Kerja Praktik. Template Laporan Kerja Praktik (KP) dapat diunduh pada tautan berikut: [Link Template Laporan Kerja Praktik](https://docs.google.com/document/d/1bin2Cz52ksENflwQkhNNByWzz06zba_r/edit?usp=drive_web&ouid=113507118618741936407&rtpof=true)
+
 ## Seminar
 
 
